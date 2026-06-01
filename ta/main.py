@@ -12,4 +12,3 @@ v1.0.0 : 13.01.2026
 
 import ta_main
 ta_main.main()
-# essai 
